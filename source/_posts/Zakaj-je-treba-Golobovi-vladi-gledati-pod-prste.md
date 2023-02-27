@@ -3,6 +3,9 @@ title: Zakaj je treba Golobovi vladi gledati pod prste
 date: 2022-10-07
 category: Finance Manager
 ---
+
+*[Objavljeno v časniku Finance Manager, 7.10.2022](https://manager.finance.si/9004597/Zakaj-je-treba-Golobovi-vladi-gledati-pod-prste)*
+
 Novembra 2020, na vrhuncu totalitarnih teženj Janševe vlade, sem dal pobudo za ustanovitev Pravne mreže za varstvo demokracije. Skupaj z Amnesty International, Pravno Informacijskim Centrom, Danes je nov dan in zavodom Open smo pri Pravni mreži v zadnjih dveh letih pomembno prispevali, da Slovenija ni šla po poti Orbanove Madžarske.
 
 Poleg jeze zaradi arbitrarnosti in nezakonitosti vladnih odločitev v času pandemije, je bil pomemben vzgib za mojo družbeno aktivacijo prepričanje, da ni kapitalizma brez demokracije. Kapitalizem namreč temelji na individualni svobodi in vladavini prava. V kolikor ni pravne države ter spoštovanja človekovih pravic pade tudi zaščita zasebne lastnine in spoštovanje pogodb.

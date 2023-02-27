@@ -3,6 +3,9 @@ title: 'Če ste podjetnik začetnik, se vprašajte: zakaj zdaj, zakaj ti, zakaj 
 date: 2022-12-16
 category: Finance Manager
 ---
+
+*[Objavljeno v časniku Finance Manager, 16.12.2022](https://manager.finance.si/9006797/Ce-ste-podjetnik-zacetnik-se-vprasajte-zakaj-zdaj-zakaj-ti-zakaj-tu)*
+
 V zadnjih desetih letih sem srečal na stotine nadebudnih podjetnikov na začetku podjetniške poti in mnogi med njimi so me prosili za nasvet in pomoč. Ker zelo nerad dajem lažno upanje, sem si zgradil okvir za ocenjevanje potenciala podjetij, ko so ta le malo več kot ideja in zanos majhne skupine ljudi in je verjetnost uspeha takega podjetja podobna verjetnosti zadetka na loteriji. Okvir temelji na treh vprašanjih: zakaj zdaj, zakaj ti in zakaj tu.
 
 Od vseh ljudi, ki sem jih spoznal je imel Samo Login gotovo najboljši odgovor na vprašanje - zakaj zdaj. Ko je leta 2009 ustanovil Outfit7, je bil svet v globinah ene največjih kriz našega časa in ljudje so bili zelo črnogledi in obupani. Samova hipoteza je bila, da bo v času krize vsak pripravljen plačati en dolar za pet minut zabeve. Hipoteza se je seveda izkazala za zelo pravilno in posledično je Samo danes najbogatejši Slovenec.

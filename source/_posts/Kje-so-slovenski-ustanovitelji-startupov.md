@@ -4,6 +4,9 @@ date: 2022-07-29
 category: Finance Manager
 ---
 
+*[Objavljeno v časniku Finance Manager, 29.7.2022](https://manager.finance.si/9002173/Kje-so-slovenski-ustanovitelji-startupov)*
+
+
 V začetku leta je Darko Butina v sodelovanju s Poslovnimi angeli Slovenije ustanovil sklad tveganega kapitala daFUND v katerega sem vložil denar tudi sam. Sklad je sedaj naredil že štiri naložbe, vendar nobene v zagonsko podjetje s slovenskim ustanoviteljem kljub temu, da smo večino kapitala v sklad prispevali Slovenci. Darko pravi, da ustanovitelji s katerimi govori v Sloveniji niso dovolj kakovostni in perspektivni, zato je raje investiral v ustanovitelje iz Velike Britanije, Grčije, Švice in Hrvaške.
 
 Darko ni osamljen v svojem mnenju. Enako mnenje sem slišal od Jureta Mikuža iz sklada South Central Ventures in Stana Sirakova iz Launchuba. Prav tako sem primankljaj dobrih ustanoviteljev opazil sam, saj je med zagonskimi podjetji, ki jim pomagam z nasveti, samo eno s slovenskim ustanoviteljem in še ta zadnjih osem let živi v Silicijevi dolini. V kolikor ne spodbudimo več Slovencev z ustreznimi sposobnostimi in pravo idejo, da ustanovijo zagonska podjetja, bo 200 milijonov evrov privatnega kapitala, ki je trenutno na voljo slovenskim ustanoviteljem, šlo v roke podjetnikov v naši soseščini in zamujena bo lepa priložnost za razvojni preboj Slovenije.
