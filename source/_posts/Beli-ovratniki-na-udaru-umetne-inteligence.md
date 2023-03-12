@@ -1,0 +1,19 @@
+---
+title: Beli ovratniki na udaru umetne inteligence
+date: 2023-03-12 15:47:23
+category: Finance Manager
+---
+
+*[Objavljeno v časniku Finance Manager, 10.3.2023](https://manager.finance.si/9010810/Beli-ovratniki-v-nemilosti-umetne-inteligence)*
+
+Vsake toliko časa pride tehnološka novost, ki spremeni vse. Vznemirjenje, ki ga je čutiti v tehnološkem svetu od kar je konec novembra lani OpenAI predstavil ChatGPT, je primerljivo edino s predstavitvijo prvega iPhonea januarja 2007. Nove aplikacije, ki jih bodo omogočale globoko učenje (deep learning), veliki jezikovni modeli (large language models) in ostale tehnike umetne inteligence (artificial intelligence oz. AI) lahko spremijo svet še veliko bolj, kot so ga Uber, Airbnb, TikTok in ostale aplikacije, ki jih je omogočil iPhone.
+
+Ko sem pred 15 leti delal doktorat na področju umetne inteligence, so bile nevronske mreže že dobro poznane, vendar so bile njihove zmožnosti še zelo omejene. Kar se je spremenilo v zadnjem desetletju, je obseg podatkov in količina procesorske moči, ki se uporablja za učenje modelov. Znanec, ki dela za Amazon, pravi, da se vsak dolar, ki ga vložijo v učenje modelov večkratno povrne preko boljših nakupnih priporočil in da so v lanskem letu porabili za več kot 300 milijonov dolarjev procesorske moči. Vlaganja OpenAI so še veliko večja, saj se ocenjuje, da je ChatGPT preučil 10% celotnega Interneta in med učenjem porabil za milijardo dolarjev procesorske moči.
+
+Umetno inteligenco od klasičnega računalništva razlikuje to, da modelov kot je ChatGPT niso sprogramirali ljudje, ampak se sami učijo iz podatkov in izkušenj. To nam odpira možnost, da računalnike začnemo uporabljati tudi na področjih, ki so dosedaj zahtevala človeško inteligenco, denimo pri medicinski diagnostiki, programiranju ter literarnem in likovnem ustvarjanju. Medtem, ko se je še pred kratkim zdelo, da so “intelektualni” poklici varni pred računalniki, je sedaj že jasno, da so beli ovratniki in znanjski delavci (knowledge workers) naslednji na udaru avtomatizacije.
+
+Preden zapademo v evforijo zaradi možnosti, ki jih prinaša nova tehnologija, ali v depresijo zaradi prihodnosti človeštva, se velja spomniti, da ima umetna inteligenca dolgo zgodovino vzponov in padcev. Še posebej poučen je primer samovozečih vozil, ki so nam bila obljubljena že pred desetimi leti in jih še vedno ni videti na ljubljanskih cestah. Izkazalo se je namreč, da je problem vožnje zelo težak, in da kljub milijardnim vlaganjem podjetij kot je Google, še nismo blizu temu, da bi umetna inteligenca nadomestila taksiste in voznike tovornjakov. Tudi za trenutno AI revolucijo še ni gotovo, da se bodo bleščeče demonstracije pretopile v uspešna podjetja in storitve, čeprav so prve uporabe ChatGPT v prodaji, trženju in podpori kupcem zelo obetavne.
+
+Na področju umetne inteligence ima tudi Slovenija dolgo zgodovino in kar nekaj vročih želez v ognju. Profesor na Stanfordski univerzi Jure Leskovec je skupaj z Vanjo Josifovskim ustanovil Kumo, ki je eno najbolj vročih AI podjetij v Silicijevi dolini. Moja nekdanja sodelavka dr. Sanja Fidler je ne samo profesorica na Univerzi v Torontu, kjer se je začela trenutna AI revolucija, ampak tudi podpredsednica za AI raziskave pri Nvidei, ki je Intel AI dobe. Dr. Mateja Jamnik je profesorica za umetno inteligenco na Univerzi v Cambridgeu in ustanoviteljica večih zagonskih podjetij vključno s podjetjem Tenyks v katerem sem posredni vlagatelj tudi sam.
+
+Pred 15 leti so Samo in ekipa Outft7 izkoristili iPhone revolucijo in zgradili najbolj uspešno tehnološko zgodbo v naši zgodovini. Verjamem in upam, da se bo v Sloveniji zopet našla vrhunska ekipa, ki bo znala izkoristiti AI revolucijo. V kolikor delate kaj zanimivega na področju umetne inteligence, se mi oglasite in z veseljem vam pomagam po svojih močeh.
