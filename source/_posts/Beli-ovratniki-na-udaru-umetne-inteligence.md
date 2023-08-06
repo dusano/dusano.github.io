@@ -1,6 +1,6 @@
 ---
 title: Beli ovratniki na udaru umetne inteligence
-date: 2023-03-12 15:47:23
+date: 2023-03-10 15:47:23
 category: Finance Manager
 ---
 
