@@ -5,7 +5,7 @@
       <a href="<%= url_for(post.path) %>"><%= post.title %></a>
       <div class="categories">
         <% post.categories.each((category, j) => { %>
-            <span class="category"><%= category.name %></span>
+            <a href="<%- url_for(category.path) %>"><span class="category"><%= category.name %></span></a>
         <% }) %>
       </div>
     </li>

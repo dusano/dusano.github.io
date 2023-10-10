@@ -1,1 +1,20 @@
-Category
+<%- partial('_header') %>
+
+<%- page.title %>
+
+<h2><%= page.category || page.name %></h2>
+
+<ul class="archive">
+  <% page.posts.each(function(post) { %>
+    <li>
+      <time><%= date(post.date) %></time>
+      <a href="<%= url_for(post.path) %>"><%= post.title %></a>
+      <div class="categories">
+         <% post.categories.each((category, j) => { %>
+           <a href="<%- url_for(category.path) %>"><span class="category"><%= category.name %></span></a>
+         <% }) %>
+      </div>
+    </li>
+  <% }); %>
+</ul>
+

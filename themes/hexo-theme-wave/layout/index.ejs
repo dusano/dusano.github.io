@@ -7,6 +7,18 @@
     <%- index.content %>
   <% }) %>
   <hr>
+
+  <h2>Categories</h2>
+  <ul class="category">
+    <% site.categories.sort('name', 1).each(function(category) { %>
+      <li>
+        <a href="<%- url_for(category.path) %>">
+          <%- category.name %>
+        </a>
+      </li>
+    <% }); %>
+  </ul>
+
   <h2>Latest posts</h2>
   <%- partial('_archive', { posts: page.posts }) %>
 </article>

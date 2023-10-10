@@ -1,6 +1,12 @@
 <%- partial('_header') %>
 
 <article>
+  <div class="post-category-section">
+    <a href="<%- url_for(page.categories.data[0].path) %>">
+      <span class="post-category"><%- page.categories.data[0].name %></span>
+    </a>
+  </div>
+
   <h1><%- page.title %></h1>
   <%- page.content %>
 </article>
