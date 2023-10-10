@@ -5,7 +5,10 @@
 <h2><%= page.category || page.name %></h2>
 
 <ul class="archive">
-  <% page.posts.each(function(post) { %>
+  <%
+  let sortedPosts = page.posts.sort((a, b) => b.date - a.date);
+  sortedPosts.each(function(post) {
+  %>
     <li>
       <time><%= date(post.date) %></time>
       <a href="<%= url_for(post.path) %>"><%= post.title %></a>

@@ -1,5 +1,8 @@
 <ul class="archive">
-  <% posts.each((post, i) => { %>
+  <%
+  let sortedPosts = posts.sort((a, b) => b.date - a.date);
+  sortedPosts.each((post, i) => {
+  %>
     <li>
       <time><%= date(post.date) %></time>
       <a href="<%= url_for(post.path) %>"><%= post.title %></a>
