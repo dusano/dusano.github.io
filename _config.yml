@@ -103,3 +103,7 @@ theme: hexo-theme-wave
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+category_descriptions:
+  "Finance Manager": "My bi-monthly column in Slovenian weekly financial magazine <a href='https://www.finance.si/manager'>Finance Manager</a> (in Slovene)."
+  "Democratization of Programming": "Programming needs to be democratized so that the wider society can begin to more actively co-shape the digital world."
