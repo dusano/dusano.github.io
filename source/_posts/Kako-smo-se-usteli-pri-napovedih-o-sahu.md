@@ -1,7 +1,7 @@
 ---
 title: Kako smo se ušteli pri napovedih, da bo v šahu človeka zamenjal stroj
 date: 2023-08-04 14:20:34
-tags: Finance Manager
+category: Finance Manager
 description: Na novo bomo morali premisliti večino človeške dejavnosti in ugotoviti, kaj je v teh dejavnostih enkratno človeškega in kaj je bolje prepustiti inteligentnemu stroju
 photos: 
 - /images/chess.png

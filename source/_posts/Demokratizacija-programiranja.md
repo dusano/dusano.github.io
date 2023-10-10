@@ -1,7 +1,8 @@
 ---
 title: Demokratizacija programiranja
 date: 2023-05-19 16:39:37
-tags: Finance Manager
+category: Finance Manager
+description: Programiranje je potrebno demokratizirati, da bo širša družba lahko začela bolj dejavno sooblikovati digitalni svet.
 ---
 
 *[Objavljeno v časniku Finance Manager, 19.5.2023](https://manager.finance.si/9013042/Zakaj-je-pomembno-da-bi-Talking-Toma-znal-narediti-tudi-osnovnosolski-ucitelj)*
