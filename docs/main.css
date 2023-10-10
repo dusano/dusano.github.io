@@ -131,6 +131,18 @@ ul.archive li.archive-link {
   background-color: transparent;
 }
 
+@media (max-width: 640px) {
+  ul.archive li {
+    width: calc(100% - 4rem);
+  }
+}
+
+ul.archive li time {
+  margin: 0;
+  font-size: 0.8rem;
+  line-height: 1rem;
+}
+
 ul.category {
   display: flex;
   flex-wrap: wrap;
@@ -152,15 +164,9 @@ ul.category li {
 }
 
 @media (max-width: 640px) {
-  ul.archive li {
+  ul.category li {
     width: calc(100% - 4rem);
   }
-}
-
-ul.archive li time {
-  margin: 0;
-  font-size: 0.8rem;
-  line-height: 1rem;
 }
 
 .categories {
