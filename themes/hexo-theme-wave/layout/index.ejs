@@ -20,7 +20,26 @@
   </ul>
 
   <h2>Latest posts</h2>
-  <%- partial('_archive', { posts: page.posts }) %>
+  <ul class="archive">
+    <%
+    let sortedPosts = page.posts.sort((a, b) => b.date - a.date);
+    sortedPosts.limit(5).each((post, i) => {
+    %>
+      <li>
+        <time><%= date(post.date) %></time>
+        <a href="<%= url_for(post.path) %>"><%= post.title %></a>
+        <div class="categories">
+          <% post.categories.each((category, j) => { %>
+              <a href="<%- url_for(category.path) %>"><span class="category"><%= category.name %></span></a>
+          <% }) %>
+        </div>
+      </li>
+    <% }) %>
+    <li class="archive-link">
+      <a href="/archives">Archive</a>
+    </li>
+  </ul>
+
 </article>
 
 <%- partial('_footer') %>
