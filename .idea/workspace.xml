@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4590f3f3-1654-4ce6-a445-2ac31bc05f09" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/archives/2022/01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archives/2022/01/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/archives/2022/03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archives/2022/03/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/archives/2022/06/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archives/2022/06/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/archives/2022/07/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archives/2022/07/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/archives/2022/10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archives/2022/10/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/archives/2022/12/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archives/2022/12/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/archives/2022/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archives/2022/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/archives/2023/03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archives/2023/03/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/archives/2023/05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archives/2023/05/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/archives/2023/08/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archives/2023/08/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/archives/2023/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archives/2023/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/archives/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archives/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/Finance-Manager/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/Finance-Manager/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="201ijmk5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2Wo55bavxURZLuyC39JOEjVKkX5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/dusano/DataspellProjects/dusano.github.io"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
