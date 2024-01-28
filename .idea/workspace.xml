@@ -4,9 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4590f3f3-1654-4ce6-a445-2ac31bc05f09" name="Changes" comment="">
+    <list default="true" id="4590f3f3-1654-4ce6-a445-2ac31bc05f09" name="Changes" comment="Pushing changes to production.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2022/01/Ko-nenadoma-postanes-bogat/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2022/01/Ko-nenadoma-postanes-bogat/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2022/03/Kje-so-slovenski-samorogi/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2022/03/Kje-so-slovenski-samorogi/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2022/06/Razvojna-kapica-za-razvojni-preboj-Slovenije/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2022/06/Razvojna-kapica-za-razvojni-preboj-Slovenije/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2022/07/Kje-so-slovenski-ustanovitelji-startupov/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2022/07/Kje-so-slovenski-ustanovitelji-startupov/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2022/10/Zakaj-je-treba-Golobovi-vladi-gledati-pod-prste/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2022/10/Zakaj-je-treba-Golobovi-vladi-gledati-pod-prste/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2022/12/Ce-ste-podjetnik-zacetnik-se-vprasajte-zakaj-zdaj-zakaj-ti-zakaj-tu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2022/12/Ce-ste-podjetnik-zacetnik-se-vprasajte-zakaj-zdaj-zakaj-ti-zakaj-tu/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2023/03/Beli-ovratniki-na-udaru-umetne-inteligence/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2023/03/Beli-ovratniki-na-udaru-umetne-inteligence/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2023/05/Democratization-of-programming/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2023/05/Democratization-of-programming/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2023/05/Demokratizacija-programiranja/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2023/05/Demokratizacija-programiranja/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2023/08/Kako-smo-se-usteli-pri-napovedih-o-sahu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2023/08/Kako-smo-se-usteli-pri-napovedih-o-sahu/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2023/10/Stiridnevni-delovni-teden/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2023/10/Stiridnevni-delovni-teden/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/archives/2022/01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archives/2022/01/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/archives/2022/03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archives/2022/03/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/archives/2022/06/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archives/2022/06/index.html" afterDir="false" />
@@ -17,10 +28,13 @@
       <change beforePath="$PROJECT_DIR$/docs/archives/2023/03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archives/2023/03/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/archives/2023/05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archives/2023/05/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/archives/2023/08/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archives/2023/08/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/archives/2023/10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archives/2023/10/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/archives/2023/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archives/2023/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/archives/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archives/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/archives/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/archives/page/2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/categories/Finance-Manager/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/Finance-Manager/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page/2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,22 +50,67 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2Wo55bavxURZLuyC39JOEjVKkX5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/dusano/DataspellProjects/dusano.github.io"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dusano/DataspellProjects/dusano.github.io&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4590f3f3-1654-4ce6-a445-2ac31bc05f09" name="Changes" comment="Pushing changes to production." />
+      <created>1704026442144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704026442144</updated>
+      <workItem from="1704026443180" duration="404000" />
+      <workItem from="1706444095324" duration="1723000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding a new post &quot;Stiridnevni delovni teden&quot;" />
+    <MESSAGE value="Pushing changes to production." />
+    <option name="LAST_COMMIT_MESSAGE" value="Pushing changes to production." />
+  </component>
 </project>
