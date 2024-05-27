@@ -3,6 +3,8 @@ title: Normalizacije korupcije v Sloveniji
 date: 2024-05-17 14:46:56
 category: Finance Manager
 description: Ni me presenetilo, ampak razjezilo, da so se že pošteni ljudje začeli spraševati, kaj je narobe z njimi.
+photos:
+  - /images/korupcija.png
 ---
 
 *[Objavljeno v časniku Finance Manager, 17.5.2024](https://www.finance.si/manager/normalizacija-korupcije-v-sloveniji/a/9023520)*
