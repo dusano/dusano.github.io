@@ -1,0 +1,24 @@
+---
+title: Kje dobiti zagonski kapital
+date: 2025-04-18 19:26:41
+category: Finance Manager
+description: Kljub kaosu, ki je zajel to državo v zadnjih mesecih, ZDA ostajajo glavni trg in predvsem okolje, ki ima z naskokom najboljši dostop do kapitala.
+photos:
+  - /images/kje-dobiti-zagonski-kapital.png
+---
+
+*[Objavljeno v časniku Finance Manager, 18.4.2025](https://www.finance.si/manager/kje-dobiti-zagonski-kapital/a/9033686)*
+
+Kot sem omenil že v prejšnji kolumni, je po treh letih premora nastopil čas, da se vrnem v podjetniško akcijo. Kljub močni želji, da novo podjetje ustanovim nekje v Evropski uniji, se je na koncu izkazalo, da za vrsto podjetja, ki ga gradim, ZDA ostajajo najboljša možnost. Kljub kaosu, ki je zajel to državo v zadnjih mesecih, ZDA ostajajo ključni trg, ki ga moramo osvojiti, in predvsem okolje z najboljšim dostopom do kapitala.
+
+Pomen kapitala pri uspehu zagonskega podjetja sem zelo dobro spoznal, ko sem gradil Cleanshelf. Čeravno smo bili pionirji na področju upravljanja spletnih naročnin za podjetja, so nas tekmeci iz ZDA kapitalsko povozili, ko smo enkrat dokazali, da je to lahko velik in zanimiv trg. Meni se je zdel izjemno velik uspeh, da smo zbrali osem milijonov dolarjev kapitala za Cleanshelf, vendar je bila to le desetina tega, kar sta zbrala naša najpomembnejša konkurenta iz ZDA. Z iznajdljivostjo in dobrim delom lahko nadomestiš nekajkratno razliko v kapitalu, ki ga imaš na voljo za rast, a desetkratne razlike ne moreš. To je bil en poglavitnih razlogov, da leta 2021 nismo omahovali, ko smo dobili ponudbo za prevzem od dobro kapitaliziranega podjetja.
+
+Čeprav je dostop do kapitala za nekoga, ki gradi zagonsko podjetje v Sloveniji, danes stokrat (brez pretiravanja!) boljši, kot je bil pred desetimi leti, ko sem zagnal Cleanshelf, imajo ZDA še vedno velikansko kapitalsko prednost pred Evropo. V Evropi je še vedno pričakovanje investitorjev, da se mora podjetnik najprej dokazati na trgu s konkretnimi prihodki, pa čeprav gre za najzgodnejšo stopnjo zagonskega podjetja, imenovano pred-semenska stopnja, medtem ko ameriški investitorji z denarjem delajo zmagovalce. Stavijo torej na ljudi za katere verjamejo, da bodo znali najbolje uporabiti kapital za čim hitrejšo rast, pri čemer učinkovitost porabe kapitala ni najbolj pomemben dejavnik.
+
+Za evropske sklade tveganega kapitala je značilno, da so pet do desetkrat manjši po obsegu zbranega kapitala kot njihovi ameriški konkurenti. Ker posledično ne morejo tekmovati s kapitalom, je model evropskih tveganih kapitalistov ta, da iščejo dobra evropska podjetja, ki so našla nišo, ki jo Američani še niso opazili, pri čemer je še bolje, da je ta niša primarno v ZDA. Ko evropsko podjetje pokaže vrednost niše, evropski tvegani kapitalisti pokličejo svoje ameriške kolege in jim prepustijo kapitalsko štafeto.
+
+Dober primer take zgodbe je romunsko zagonsko podjetje Bible chat, zvezda slovenskega sklada tveganega kapital Silicon Gardens, v katerem sem tudi sam investitor. Bible chat je namreč zgradil eno izmed najbolj vročih mobilnih aplikacij na svetu, ki ima 80% svojih uporabnikov v ZDA med evangeličanskimi verniki. Ko so to enkrat opazili Američani, so se takoj oglasili s polnimi kovčki denarja in Bible chat je nekaj tednov nazaj zaprl financiranje pri zelo dobrem vrednotenju z ameriškim skladom tveganega kapitala True Ventures.
+
+Če ste evropejec z dobro idejo in željo zagnati podjetje, se morate zelo dobro zavedati možnosti, ki so vam na voljo. Če lahko, je vedno najboljša možnost financiranje razvoja podjetja z lastnimi sredstvi. Vendar je pri visokotehnoloških podjetjih to le redko možno, saj strošek razvoja produkta in vseh podpornih aktivnosti, skoraj vedno krepko presega proste dobičke, ki jih podjetje lahko dosega na trgu. Če torej gradite visokotehnološko podjetje v Evropi, je vaša skoraj edina možnost, da izberete nišo, ki jo Američani še niso opazili in upate, da bo nekoč v prihodnosti eksplodirala. Meni se je ta stava s Cleanshelfom enkrat že izšla in zdaj delam podobno stavo tudi z novim podjetjem.
+
+Obstaja še ena možnost, ki jo raje ne bi omenjal, saj zaradi nje v Evropi izgubljamo najboljše podjetnike in strokovnjake, da potem večino sadov njihovega znanja, talenta in truda požanjejo Američani. To možnost je pred kratkim izbral Gregor Žunič, eden izmed najbolj talentiranih mladih evropskih podjetnikov. Z njim sem se pogovarjal decembra, ravno ko je čakal ali bo sprejet v kalifornijski YCombinator, najbolj znan podjetniški inkubator na svetu. Na žalost se je moja napoved, da je Gregor za Evropo v veliki meri izgubljen, izkazala za pravilno. Gregor je bil s projektom Browser Use ne samo sprejet v YCombinator, ampak je potem projekt eksplodiral, kar je Gregorju omogočilo zbrati kar 17 milijonov dolarjev pred-semenskega kapitala, čeprav sta v ekipi samo dva in je njun produkt le malo več kot ideja. O takih zneskih lahko evropski podjetniki še naprej le sanjamo.
