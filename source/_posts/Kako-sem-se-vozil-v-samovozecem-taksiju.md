@@ -1,0 +1,26 @@
+---
+title: Kako sem se vozil v samovozečem taksiju
+date: 2025-10-17 19:26:41
+category: Finance Manager
+description: Razen, da se ne zgodi v trenutku, je izkušnja vožnje s samovozečim vozilom najbližje teleportaciji.
+photos:
+  - /images/samovozeci-taksi.jpeg
+---
+
+*[Objavljeno v časniku Finance Manager, 17.1.2025](https://www.finance.si/manager/kako-sem-se-vozil-v-samovozecem-taksiju/a/9039902)*
+
+Prejšnji mesec sem bil po štirih letih spet v San Franciscu. Od mojega zadnjega obiska se je mesto precej spremenilo, saj zdaj po ulicah vozi na stotine samovozečih vozil podjetja Waymo, ki jih ljudje množično uporabljajo za prevoze po mestu. Med bivanjem v San Franciscu sem samovozeče taksije večkrat uporabil tudi sam in izkušnja je bila izredno dobra.
+
+Prevoz se naroči podobno kot pri storitvi Uber, torej preko mobilne aplikacije, v kateri se izbereta cilj in mesto, kjer želiš, da te samovozeči taksi pobere. Nekaj minut po tem, ko v mobilni aplikaciji potrdiš prevoz, pripelje do tebe beli električni Jaguar in elegantno ustavi ter prižge napis na strehi vozila z inicialkami potnika, da takoj najdeš pravi avto, če jih je na lokaciji več. Takoj ob prihodu se vozilo podjetja Waymo tudi brezstično poveže s potnikovim mobilnim telefonom, tako da je vozilo že odklenjeno in mora potnik samo še odpreti vrata in vstopiti v vozilo.
+
+Vožnjo sprožiš s pritiskom na gumb na velikem zaslonu v vozilu ali prek mobilne aplikacije. Sočasno se vozilo poveže s tvojim računom Spotify, in ko se začne vožnja, tvoja priljubljena glasba že igra v avtu. Izkušnja s praznim voznikovim sedežem je vsekakor zelo nenavadna, vendar se je zelo hitro navadiš. Malo več časa je potrebno, da se navadiš, da si v avtu ne samo popolnoma sam ampak, da ti tudi ni potrebno posvečati nobene pozornosti okolici. Lahko zapreš oči in poslušaš glasbo, se pogovarjaš najbolj občutljive stvari po telefonu, ne da bi jih kdorkoli poslušal, oziroma delaš, karkoli že ti ustreza v tistem trenutku.
+
+Dobro minuto pred prihodom na cilj te prijeten glas opozori, da je cilj blizu in da se pripravi na izstop. Vozilo pametno najde varno mesto, kjer lahko ustavi, in vse, kar je še potrebno storiti potniku je, da izstopi iz vozila in za seboj zapre vrata. Razen, da se ne zgodi v trenutku, je izkušnja vožnje s samovozečim vozilom najbližje teleportaciji.
+
+Razvoj samovozečih vozil se je začel pred dvajsetimi leti z izzivom DARPA, to je ameriške vojaške raziskovalne agencije. Od takrat so samovozeča vozila napredovala do stopnje, ko lahko varno vozijo tudi po kompleksnih mestih kot je San Francisco, polnih strmih klancev in čudnih ljudi. Sam sem se kot potnik počutil zelo varno in lahko sem samo občudoval, kako dobro je Waymo navigiral zelo kompleksne situacije, kot je kolesar, ki je vozil v nasprotno smer in v nasprotju z vsemi predpisi.
+
+Veliko bolj kot potniku v vozilu, so mi samovozeči taksiji nelagodje povzročali, ko sem kot pešec prečkal ulico in se mi je bližal beli jaguar s praznim voznikovim sedežem. Če bi se robot v vozilu tako odločil, bi v vsakem primeru lahko z nezmanjšano hitrostjo priletel vame in me ubil. Prvič v človeški zgodovini se tako dogaja, da imamo med nami tono in pol težak stroj v upravljanje računalniku in zaupamo, da ta ne bo nikogar namerno ubil.
+
+Po večkratni izkušnji vožnje s samovozečimi taksiji v času mojega dvotedenskega bivanja v San Franciscu sem postal prepričan, da so samovozeča vozila rešila vse najpomembnejše tehnološke izzive in da bomo v prihodnjih petih do desetih letih priča izjemnemu razmahu te tehnologije, ki bo v temeljih pretresel ne samo našo družbo, ampak tudi okolje. Waymo, ki želi ostati predvsem tehnološko podjetje, se je povezal s podjetji Uber in Lyft, ki tehnologijo samovozečih taksijev že širita po večih mestih v ZDA in jo bosta kmalu pripeljala tudi v Evropo in Slovenijo. Vzporedno bo Waymo zagotovo ponudil svojo tehnologijo proizvajalcem avtomobilov za vgradnjo v osebna vozila.
+
+V Evropi se ne zavedamo, da bodo z vzponom samovozečih vozil ameriška tehnološka podjetja prevzela tudi avtomobilsko industrijo in tako obvladovala še en zelo pomemben vidik našega življenja. V kolikor Evropejci ne stopimo skupaj in prevzamemo ameriškega razvojnega modela, nas v bližnji prihodnosti čaka samo tehnološko suženjstvo in popolna odvisnost od človeka, ki stanuje v Beli hiši.
