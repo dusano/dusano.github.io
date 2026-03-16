@@ -4,7 +4,7 @@ date: 2026-02-26 10:09:07
 category: Finance Manager
 description: V zadnjih treh letih se je programiranje spremenilo bolj kot prej v 60 letih skupaj. S prihodom velikih jezikovnih modelov naravni jezik postaja zmogljivo tehnološko orodje, ki se ga inženirji šele učimo uporabljati.
 photos:
-  - /images/plain_logo_green
+  - /images/plain_logo_green.png
 ---
 
 *[Objavljeno v časniku Finance Manager, 26.2.2026](https://www.finance.si/manager/kdaj-bomo-pisali-programsko-opremo-v-naravnem-jeziku/a/9044322)*
