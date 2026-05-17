@@ -4,7 +4,7 @@ date: 2026-05-08 10:09:07
 category: Finance Manager
 description: Čeprav že 15 let redno obiskujem Silicijevo Dolino, še nikoli nisem občutil takšnega vznemirjenja med tamkajšnjimi strokovnjaki in tehnološkimi voditelji kot tokrat.
 photos:
-  - /images/ai-agenti-prihajajo.png
+  - /images/ai-agenti-prihajajo.jpg
 ---
 
 *[Objavljeno v časniku Finance Manager, 8.5.2026](https://www.finance.si/manager/ui-agenti-prihajajo/a/9046779)*
